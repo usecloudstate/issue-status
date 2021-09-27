@@ -1,6 +1,6 @@
 {
-  "short_name": "Issue Status",
-  "name": "Simple, modern and flexible status page",
+  "short_name": "useCloudState.io Status Page",
+  "name": "Status Page for useCloudState.io services",
   "icons": [
     {
       "src": "favicon.ico",
